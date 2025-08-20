@@ -1,0 +1,26 @@
+﻿Reflection report
+
+
+method used:
+(If else method ) I use this method because it is an easy way to make different choices.
+(inFile method) I use this method because it is the method to read the file and to do the choice that we want to do.
+(getline method) This method is to read the line inside the file to get the correct line that we want to read.
+(while method) This method is to get the groject keep looping until you want it to stop.
+(exit method) This is the method to exit the project.
+
+
+In most of the source is used is from the YouTube video:
+https://www.youtube.com/watch?v=8jLOx1hD3_o 
+https://www.youtube.com/watch?v=2BP8NhxjrO0&t=194s 
+https://www.youtube.com/watch?v=x0uUKWJzSO4&t=232s 
+https://www.youtube.com/watch?v=U1r8HLllInM&t=194s 
+https://www.youtube.com/watch?v=vLnPwxZdW4Y 
+https://www.youtube.com/watch?v=8RucxSeAemwv 
+
+
+Summarise:
+In this assignment I have learnt many codes, I have learnt how to simplify the code, sometimes we can use classes to group a big amount of data and it is easier to use the data from the classes.
+
+
+Improve:
+If I have one more time to do this coding, maybe I’m going to make the code more simplify and make more classes to store the data
